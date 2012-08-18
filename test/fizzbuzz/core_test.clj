@@ -1,4 +1,4 @@
-(ns fizzbuzz2.core-test
+(ns fizzbuzz.core-test
   (:use clojure.test
         fizzbuzz2.core))
 
