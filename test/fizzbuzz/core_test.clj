@@ -1,6 +1,5 @@
 (ns fizzbuzz.core-test
-  (:use clojure.test
-        fizzbuzz2.core))
+  (:use clojure.test fizzbuzz.core))
 
 (deftest nonefizzbuzz-numbers-return-itself
  (is (= (fizzbuzz '(1 2 4 7)) '(1 2 4 7))))

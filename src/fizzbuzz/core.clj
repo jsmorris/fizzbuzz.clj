@@ -1,4 +1,4 @@
-(ns fizbuzz.core)
+(ns fizzbuzz.core)
 
 (defn -main
   "I don't do a whole lot."
