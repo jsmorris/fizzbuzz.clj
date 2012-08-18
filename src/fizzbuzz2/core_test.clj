@@ -1,1 +1,0 @@
-(ns fizzbuzz2.core-test)
